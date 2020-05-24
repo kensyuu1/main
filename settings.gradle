@@ -1,0 +1,2 @@
+rootProject.name='tizu apuri'
+include ':app'
